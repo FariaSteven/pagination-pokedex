@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+
+    /* font-family: 'Concert One'; */
+    /* font-family: 'Orbitron'; */
+    /* font-family: 'Montserrat Alternates'; */
+    /* font-family: 'Press Start 2P'; */
+    /* font-family: 'Squada One'; */
+    font-family: 'Flexo Light';
+}
+
+.container {
+    display: inline-block;
+    text-align: center;
+}
+
+.card {
+    width: 250px;
+    border: 2px solid rgb(85, 85, 85);
+    border-radius: 20px;
+    margin: 2px;
+}
+
+.card-img img{
+    width: 220px;
+    background-color: #00000010;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.card-types {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
+.card-Type-Color {
+    width: 100px;
+    border-radius: 20px;
+}
+
+.button {
+    text-align: center;
+}
+
+.next-prev-button {
+    width: 200px;
+    height: 30px;
+
+    font-size: large;
+
+    border: 2px solid #00000050;
+
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+    outline: none;
+    /* border: none; */
+
+    border-radius: 10px;
+}
+
+.card-name {
+    font-size: large;
+    text-transform: uppercase;
+}

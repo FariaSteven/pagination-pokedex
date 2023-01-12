@@ -14,7 +14,7 @@ To install this project, follow the steps below:
 
 In your terminal, inside the project folder, run the command below to install the dependencies:
 ```
-yarn
+npm
 ```
 
 ## ☕ Running the project
@@ -22,7 +22,7 @@ yarn
 In your terminal, inside the project folder, run the command below to run the project:
 
 ```
-yarn start
+npm start
 ```
 
 # Futures features:

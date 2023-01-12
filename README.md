@@ -1,21 +1,34 @@
-Para rodar a aplicação execute os seguintes comandos:
+# 📝 Pokedex ReactJS - API Pokemon
 
-### `npm install`
+> Project developed for Eureka company selection process, consuming the Pokémon API on the front end using Reactjs.
 
-Instala todas as dependências necessárias para rodar a aplicação.
+## 💻 Prerequisites
 
-### `npm start`
+Before start, check if you have the requirements to run this project:
 
-Ira executar a aplicação na porta :3000, se houver aplicações rodando nessa porta será solicitado a troca de porta:
+- `NodeJS` installed.
 
-[http://localhost:3000](http://localhost:3000)
+## 🚀 Installing the projects
 
-------------------------------------------------------------------------------
+To install this project, follow the steps below:
 
-# Atualizações futuras:
+In your terminal, inside the project folder, run the command below to install the dependencies:
+```
+yarn
+```
 
-[x] Listagem de todos os pokemons
+## ☕ Running the project
 
-[x] Mostrar a evolução de cada pokemon e suas mega evoluções
+In your terminal, inside the project folder, run the command below to run the project:
 
-[x] Adicionar icones em relação tipo de cada pokemon
+```
+yarn start
+```
+
+# Futures features:
+
+[x] List all Pokemons
+
+[x] Add icons with the pokemon type
+
+
